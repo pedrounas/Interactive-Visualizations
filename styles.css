@@ -18,3 +18,13 @@ table > tr, th {
 h3 {
     padding-bottom: 10px;
 }
+
+img {
+    width: 20%;
+}
+.center {        
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    text-align: center;
+  }
